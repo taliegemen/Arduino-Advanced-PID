@@ -1,5 +1,5 @@
 # Arduino-Advanced-PID
-An advanced PID that uses Series and Ideal algorithm, which can be tuned theoretically unlike Parallel algorithm
+An advanced PID that uses Series and Ideal algorithm, which can be tuned theoretically unlike Parallel algorithm.
 To use you need a DC motor and Encoder library, optitionally you can get PLX-DAQ to note various data from Arduino.
 
 # Citation
